@@ -1,1 +1,1 @@
-# .github
+Pending proper page
